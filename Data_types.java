@@ -2,12 +2,12 @@ package com.company;
 
 public class Data_types {
     public static void main(String[]args){
-        int a = 100;
-        int b = 200;
-        double c = 300;
-        double d = 400;
-        var name = "Sparsh";
-        String lastname = " Patial";
+        int a = 100;  #int data type used
+        int b = 200;  #int data type used
+        double c = 300;  #double data type used
+        double d = 400;  #double data type used
+        var name = "Sparsh";  #variable data type used
+        String lastname = " Patial";  #string data type used
         int e = a + b;
         double f = c + d;
         System.out.println("Hello my name is "+ name + lastname);
