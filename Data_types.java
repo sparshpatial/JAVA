@@ -2,7 +2,7 @@ package com.company;
 
 public class Data_types {
     public static void main(String[]args){
-        int a = 100;  #int data type used
+        int a = 100;  //int data type used
         int b = 200;  #int data type used
         double c = 300;  #double data type used
         double d = 400;  #double data type used
