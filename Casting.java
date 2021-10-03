@@ -9,7 +9,7 @@ public class Casting {
         double c=323.142;
 
         System.out.println("This is the conversion of int into byte");
-        b=(byte) a;
+        b=(byte) a;//Casting
         System.out.println("a and b "+ a +" "+b);
         System.out.println("This is the conversion of double into int ");
         a=(int) c;
