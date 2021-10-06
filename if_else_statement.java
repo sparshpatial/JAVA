@@ -12,9 +12,9 @@ public class if_else_statement {
         else if(month==6||month==7||month==8)
             season="Summer";
         else if(month==9||month==10||month==11)
-            season="Spring";
+            season="Autumn";
         else
-            season ="BOngue Month";
+            season ="Wrong Month";
 
         System.out.println("April is in the "+season+".");
     }
